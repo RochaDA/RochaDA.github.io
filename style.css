@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   margin: 40px;
-  background-color: #f7f7f7;
+  background-color: #58B09C;
   color: #333;
 }
 
@@ -11,7 +11,7 @@ header {
 }
 
 section {
-  background: white;
+  background: #CAF7E2;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
